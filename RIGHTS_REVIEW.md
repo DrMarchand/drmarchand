@@ -1,18 +1,16 @@
-# Authorship and License Review
+# Authorship and License Transition
 
-Effective: 2026-08-16  
-Status: Review required before changing the repository license
+Effective: 2026-08-18  
+Status: Apache License 2.0 transition authorized and implemented for the current repository state
 
-Joseph Kyle Marchand is the identified author of original repository material unless a file-specific record says otherwise. Design Orchard LLC is not treated as the copyright owner merely because it operates, maintains, or is associated with the repository.
+Joseph Kyle Marchand is the identified author and default copyright owner of original repository material unless a file-specific record states otherwise. Design Orchard LLC is the legal and operating company and repository maintainer; that role does not by itself transfer copyright.
 
-This repository currently uses the Unlicense or public-domain-equivalent language. That grant is separate from authorship and may conflict with an “all rights reserved” posture. This review notice does not revoke prior permissions, rewrite history, or replace the existing license.
+## Current license
 
-Before changing the license, document:
+Original material in the current repository state is made available under the Apache License, Version 2.0 (`Apache-2.0`). See `LICENSE`.
 
-1. which files and versions Joseph Kyle Marchand authored;
-2. whether any third-party material is present;
-3. the intended license for future versions;
-4. whether prior grants remain in effect; and
-5. any work-specific publisher role for Design Orchard LLC.
+## Historical boundary
 
-Trademark status remains separate. Do not use the registered symbol without a current mark-specific registration record.
+Earlier versions were distributed under the Unlicense or public-domain-equivalent language. This transition is prospective. It does not revoke or rewrite permissions already granted for earlier versions. See `LICENSE_HISTORY.md`.
+
+File-specific and third-party rights remain controlling. Trademark status remains separate from copyright and software licensing.
